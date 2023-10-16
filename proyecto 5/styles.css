@@ -1,15 +1,15 @@
 /* Custom properties/variables  */
 :root {
     --main-white: #f0f0f0;
-    --main-red: #be3144;
-    --main-blue: #45567d;
+    --main-red: #b51f33;
+    --main-blue: #4d68a8;
     --main-gray: #303841;
   }
   
   /* Base reset */
   * {
     margin: 0;
-    padding: 0;
+    padding: 10;
   }
   
   /* box-sizing and font sizing */
